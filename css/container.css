@@ -1,0 +1,7 @@
+.container {
+  width: 100%;
+  background-color: #eef0f3;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 10px;
+}
